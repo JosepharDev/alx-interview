@@ -1,6 +1,16 @@
 #!/usr/bin/python3
+"""
+0-pascal_triangle
+"""
+
 
 def pascal_triangle(n):
+    """
+    Returns a list of integers
+    representing the Pascal Triangle of n
+    returns empty list if n <= 0
+    """
+
     if n <= 0:
         return list()
     first_row = [1]
