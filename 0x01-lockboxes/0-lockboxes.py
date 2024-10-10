@@ -1,4 +1,4 @@
-#!/usr/bin/emv python3
+#!/usr/bin/env python3
 """ This is a graph traversal problem where each box is a node
     and the keys in the box represent edges to other nodes (boxes)"""
 
