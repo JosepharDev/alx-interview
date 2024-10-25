@@ -3,7 +3,7 @@
 import sys
 import signal
 import re
-
+"""script that reads stdin line by line and computes metrics """
 
 total_size = 0
 line_count = 0
