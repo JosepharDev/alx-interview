@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""" validatUTF8 module
+"""" validUTF8 module
 """
 
 
